@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy
 
-Aspiring Data Analyst skilled in SQL, Tableau, and data visualization. Building dashboards and analytics projects focused on business insights and storytelling.
+Aspiring Data Analyst skilled in SQL, Tableau, and data visualization. Building analytics projects and interactive dashboards focused on business intelligence, KPI reporting, and data storytelling.
 
 ## Skills
 - SQL
@@ -8,6 +8,7 @@ Aspiring Data Analyst skilled in SQL, Tableau, and data visualization. Building 
 - Excel
 - Data Visualization
 - Business Analysis
+- KPI Reporting
 
 ## Certifications
 - Tableau Desktop Specialist
@@ -19,10 +20,12 @@ Aspiring Data Analyst skilled in SQL, Tableau, and data visualization. Building 
 - Portfolio development
 
 ## Projects
-- Customer Revenue Performance Dashboard
-- SQL Sales & Profit Analysis
-- Interactive Business KPI Dashboards
+- Enterprise SaaS Revenue & Customer Analytics Suite
+- Marketing Campaign Performance Dashboard
+- Customer Segmentation: Campaign Response Analysis
+- Global Retail Performance: Executive Analysis
+- Customer Revenue & Performance Dashboard
 
 ## Links
-- Tableau Public: [(https://public.tableau.com/app/profile/jeremy.dade/vizzes)]
-- LinkedIn: [(https://www.linkedin.com/in/jeremy-dade21/)]
+- Tableau Public: https://public.tableau.com/app/profile/jeremy.dade/vizzes
+- LinkedIn: https://www.linkedin.com/in/jeremy-dade21/
